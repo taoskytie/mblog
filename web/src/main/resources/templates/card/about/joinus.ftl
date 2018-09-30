@@ -23,6 +23,7 @@
                     <p><strong>加入我们</strong><br/></p>
                     <p>如果你和我们有一样的梦想、有激情，别犹豫，加入我们。</p>
                     <p>微信公众号：奔跑de犀牛</p>
+                    <p><img border="0" src="${base}/dist/images/erweima.png" alt="奔跑de犀牛" title="奔跑de犀牛"></p>
 				</div>
             </div>
             <div class="panel-footer operate">
