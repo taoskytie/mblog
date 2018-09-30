@@ -7,7 +7,7 @@
             <ul class="footer-nav hidden-xs">
                 <li class="menu-item"><a href="${base}/about">关于我们</a></li>
                 <li class="menu-item"><a href="${base}/joinus">联系我们</a></li>
-                <li class="menu-item"><a href="${base}/faqs">生日快乐</a></li>
+                <li class="menu-item"><a href="${base}/faqs">Happy Birthday To Helen</a></li>
                 <li>
                     <script>
                         var _hmt = _hmt || [];
@@ -26,7 +26,7 @@
         </div>
         <div class="footer-col footer-col-sns hidden-xs hidden-sm">
             <div class="footer-sns">
-                <span>Powered By <a href="http://mtons.com/?copyright" target="_blank">Helen</a></span>
+                <span>Powered By <a href="http://mtons.com/?copyright" target="_blank">Mtons</a></span>
             </div>
         </div>
     </div>
