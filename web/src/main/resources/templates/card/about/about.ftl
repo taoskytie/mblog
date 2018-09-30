@@ -29,8 +29,8 @@
                     <p>存储采用Ehcache、MySQL，搜索引擎使用的Lucene</p>
                     <p>前端为响应式设计，主要使用Bootstrap框架+jQuery。</p>
                     -->
-                    <p><strong>本网站为贡献广大网友，特此开源</strong></p>
-                    <p>代码托管在OSC <a href="http://git.oschina.net/mtons/mblog" target="_blank">http://git.oschina.net/mtons/mblog</a></p>
+                    <p><strong>HAPPY BIRTHDAY TO HELEN</strong></p>
+                    <p>River祝您吃饱穿短</p>
 
 				</div>
             </div>

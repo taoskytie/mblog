@@ -23,9 +23,10 @@ spring:
 
     datasource:
         driver-class-name: com.mysql.jdbc.Driver
-        url: jdbc:mysql://localhost/db_mblog?useSSL=false&characterEncoding=utf8
-        username: root
-        password: helen0823
+        #url: jdbc:mysql://localhost/db_mblog?useSSL=false&characterEncoding=utf8
+        url: jdbc:mysql://118.126.116.179/db_mblog?useSSL=false&characterEncoding=utf8
+        username: stock
+        password: stockmoney
 
     jpa:
         database: mysql
